@@ -1,7 +1,7 @@
 # P6: Web Scraping and NLP with Requests, BeautifulSoup, and spaCy
 ## Completed by: Kristen Finley
 #
-### Github Repository Link: https://github.com/AnalysisKris/web-scraping
+### Github Repository Link: [https://github.com/AnalysisKris/web-scraping](https://github.com/AnalysisKris/web-scraping)
 ### Class: 44620- WEB MINING & APPLIED NLP 8081SP24
 #
 
